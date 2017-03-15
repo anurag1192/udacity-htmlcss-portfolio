@@ -1,6 +1,6 @@
-# udacity-htmlcss-portfolio
+# htmlcss-portfolio
 
-This is a project for udacity HTML CSS course
+This is a project for  HTML CSS course
 
 Help me make it better.
 
